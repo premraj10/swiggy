@@ -1,0 +1,1 @@
+insert into restaurant values (100,'prem','1000');
